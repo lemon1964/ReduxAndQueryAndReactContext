@@ -16,8 +16,8 @@
 - Похожий SPA для управления блогами, использует React Query и Context для управления состоянием. Стилизация обрабатывается Material UI и стилизованными компонентами. Аутентификация пользователя: `"username": "lemon", "password": "sokol"`.
 - **Запуск**: `npm run dev`
 
-. **react-shop**
-- Интернет магазин по апи [FortniteApi](https://fortniteapi.io/)
+4. **react-shop**
+- Интернет магазин с апи [FortniteApi](https://fortniteapi.io/)
 - **Запуск**: `npm run start`
 
 ### Использование
